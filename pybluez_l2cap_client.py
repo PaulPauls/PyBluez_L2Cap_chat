@@ -1,13 +1,3 @@
-"""
-Merged version of the L2Cap communication code examples provided by
-https://github.com/pybluez/pybluez/tree/master/examples/simple
-https://people.csail.mit.edu/albert/bluez-intro/
-http://pages.iu.edu/~rwisman/c490/html/pythonandbluetooth.htm
-http://code.activestate.com/recipes/577058/
-
-EXECUTE AS SUPERUSER!
-"""
-
 import sys
 import bluetooth
 
